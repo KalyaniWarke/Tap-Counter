@@ -9,6 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+    UILabel *labelNumber;
+    UIButton *buttonTap;
+    UIButton *buttonReset;
+}
 
 
 @end
